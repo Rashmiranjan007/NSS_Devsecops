@@ -1,0 +1,4 @@
+->created CI stage for push and pull request.
+  ->In build stage here we are using ubutu latest as server.
+  -> we are setting of python 3 and installing the python dependcies.
+  ->Running several unit cases.
